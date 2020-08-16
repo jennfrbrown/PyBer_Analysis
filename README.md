@@ -20,9 +20,23 @@ The purpose of this analysis is to perform exploratory data analysis for PyBer, 
  
 ### Results
 
-####
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-Summary:
+#### Summary
+<img src ="https://github.com/jennfrbrown/PyBer_Analysis/blob/master/Analysis/PyBer_fare_summary.png">
 
+- Total Rides
+  - Urban cities have the greatest number of total rides, 2.6 times higher than suburban cities and 13 times higher than rural cities.
+  
+- Total Drivers
+  - Urban cities have the greatet number of total drivers, 4.9 times more than suburban cities and 30.8 times more than rural cities.  This is supported by urban cities also having the highest number of total rides.
+  
+- Total Fares
+  - Urban cities produces the highest of total fares, 2.1 times higher thans suburban cities and 9.2 times more than rural cities.  This is supported by urban cities also having the highest number of total rides and the greatest number of drivers.
+  
+- Average Fare per Ride
+  - Rural cities have the highest Average Fare per Ride, 1.4 times higher than Average Fare by Ride in urban cities and 1.1 times higher than Average Fare by Ride in suburban ciies.  This is supported by rural cities having a greater distance between destinations, thus potentially having longer rides.
+
+- Average Fare per Driver
+ - Rural cities have the highest Average Fare per Driver, 3.3 times higher than Average Fare by Driver in urban cities and 1.4 times higher than Average Fare by Driver in suburban ciies.  This is supported by rural cities having a greater distance between destinations, thus potentially having longer rides and rural cities also having the least number of drivers.
+ 
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
