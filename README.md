@@ -38,5 +38,7 @@ The purpose of this analysis is to perform exploratory data analysis for PyBer, 
 - Average Fare per Driver
  - Rural cities have the highest Average Fare per Driver, 3.3 times higher than Average Fare by Driver in urban cities and 1.4 times higher than Average Fare by Driver in suburban ciies.  This is supported by rural cities having a greater distance between destinations, thus potentially having longer rides and rural cities also having the least number of drivers.
  
+ <img src="https://github.com/jennfrbrown/PyBer_Analysis/blob/master/Analysis/Deliverable_2_Challenge_Graph.png">
+ 
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
