@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of this analysis is to perform exploratory data analysis for PyBer, a ride-share company.  Once the analysis is complete, we will make graphs to show the data is a compelling, visual way.  This analysis focuses on the relationship between city type - urban, suburban, and rural - and its relationship to fares, number or drivers, number of rides, and when those rides occurred.  We are specifically looking at data collected from January to early May 2019.
+The purpose of this analysis is to perform exploratory data analysis for PyBer, a ride-share company.  Once the analysis is complete, we will make graphs to show the data is a compelling, visual way.  This analysis focuses on the relationship between city type - urban, suburban, and rural - and its relationship to fares, number or drivers, number of rides, and when those rides occurred.  We are specifically looking at data collected from January to the end of April 2019.
 
 #### Resources
 - Data Source: 
@@ -38,7 +38,13 @@ The purpose of this analysis is to perform exploratory data analysis for PyBer, 
 - Average Fare per Driver
  - Rural cities have the highest Average Fare per Driver, 3.3 times higher than Average Fare by Driver in urban cities and 1.4 times higher than Average Fare by Driver in suburban ciies.  This is supported by rural cities having a greater distance between destinations, thus potentially having longer rides and rural cities also having the least number of drivers.
  
+ 
  <img src="https://github.com/jennfrbrown/PyBer_Analysis/blob/master/Analysis/Deliverable_2_Challenge_Graph.png">
  
+When looking at results for each city type in correlation to the toal fare amount per week from January to the edn of April 2019, you see that all city types have a steady number of rides from week to week.  Of interest is a matching spike in the third week of February.
 
+#### Business Recommendations.
+1. There is a matching peak in the third week of February for all city types.  Determining the cause of this peak would be beneficial to help determine any marketing or business strategies surrounding it.  Was this a result of a holiday or a special event?  If so, what promotions or driver ability strategies can be incorporated to capitalize on the increase utilization?
+
+2. 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
