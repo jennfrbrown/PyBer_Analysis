@@ -46,5 +46,7 @@ When looking at results for each city type in correlation to the toal fare amoun
 #### Business Recommendations.
 1. There is a matching peak in the third week of February for all city types.  Determining the cause of this peak would be beneficial to help determine any marketing or business strategies surrounding it.  Was this a result of a holiday or a special event?  If so, what promotions or driver ability strategies can be incorporated to capitalize on the increase utilization?
 
-2. 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+2. Rural city types have the greatest average fare per ride.  If PyBer is looking to recruit drivers, it would be be beneficial to show driver's what their potential income could be.  Drivers may not want to work for $25/ride, but may be enticed to work for $35/ride.
+
+3. In January and February, the data shows an inverse relationship between fares in urban and rural areas.  Those in the rural areas are more likely to own cars than those in urban areas.  The weather may play a factor into ride decisions.  PyBer could provide an incentive for rural drivers to work in urban areas or it could provide a package deal for those in the urban area to promote multiple ride purchases. 
+
